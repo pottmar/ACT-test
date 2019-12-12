@@ -1,11 +1,11 @@
 .summary {
-    color: #808080; /*pink*/
+    color: #562f7e; /*purple*/
     border-left: 5px solid #fe81ef;
     font-size:16px;
 }
 
 /*yellow*/
-h3 {color: #fce903; }
+h3 {color: #ffce00; }
 h4 {color: #808080; }
 
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
