@@ -59,7 +59,7 @@ a.navbar-brand:hover {
 
 .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
     background-color: #015CAE;
-    color: #ffffff;
+    color: #ffffff; 
 }
 
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
@@ -73,7 +73,7 @@ a.navbar-brand:hover {
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
-    background-color: #347DBE;
+    background-color: #009b5c; /*green*/
 }
 
 .btn-primary:hover,
@@ -82,7 +82,7 @@ a.navbar-brand:hover {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
     background-color: #248ec2;
-    border-color: #347DBE;
+    border-color: #cd5b45; /*coral*/
 }
 
 .printTitle {
@@ -106,7 +106,7 @@ li.sidebarTitle {
   margin-top:20px;
     font-weight:normal;
     font-size:130%;
-    color: #9c8855; /*desert yellow*/
+    color: #604cdb; /*ACT purple*/
     margin-bottom:10px;
     margin-left: 5px;
 
