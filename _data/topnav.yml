@@ -4,8 +4,8 @@ topnav:
 - title: Topnav
   items:
     - title: ACT Website
-      external_url: https://github.com/tomjoht/documentation-theme-jekyll
-    - title: Nothing
+      external_url: https://www.actnetwork.us/national
+    - title: Submit a Feature Request
       url: /news
 
 #Topnav dropdowns
