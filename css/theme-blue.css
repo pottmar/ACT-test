@@ -1,15 +1,15 @@
 .summary {
-    color: #808080;
+    color: #808080; /*pink*/
     border-left: 5px solid #fe81ef;
     font-size:16px;
 }
 
-
+/*yellow*/
 h3 {color: #fce903; }
 h4 {color: #808080; }
 
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
-    background-color: #248ec2;
+    background-color: #e71837; /*red*/
     color: white;
 }
 
