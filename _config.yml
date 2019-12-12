@@ -3,10 +3,10 @@ repository: pottmar/documentation-theme-jekyll
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Hello
+topnav_title: ACT Network
 # this appears on the top navigation bar next to the home button
 
-site_title: Hello2
+site_title: ACT Network Wiki
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: ACT Network
