@@ -59,7 +59,7 @@ a.navbar-brand:hover {
 
 .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
     background-color: #015CAE;
-    color: #ffffff; 
+    color: #010101;  /*black*/
 }
 
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
