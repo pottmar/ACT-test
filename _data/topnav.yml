@@ -3,7 +3,7 @@
 topnav:
 - title: Topnav
   items:
-    - title: GitHub
+    - title: Paige
       external_url: https://github.com/tomjoht/documentation-theme-jekyll
     - title: News
       url: /news
@@ -12,7 +12,7 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Jekyll Help
+    - title: Ottmar
       folderitems:
         - title: Jekyll Talk
           external_url: https://talk.jekyllrb.com
@@ -22,7 +22,7 @@ topnav_dropdowns:
           external_url: http://stackoverflow.com/questions/tagged/jekyll
         - title: Jekyll on my blog
           external_url: http://idratherbewriting.com/category-jekyll/
-    - title: Products
+    - title: Hello
       folderitems:
         - title: Jekyll Documentation Theme
           url: /mydoc_introduction.html
