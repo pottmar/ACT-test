@@ -386,9 +386,9 @@ ul#mysidebar {
 .nav ul li ul li a {
     padding-left:40px;
 }
-
+/* potentially navigation color */
 .nav li.thirdlevel > a {
-    color: #248EC2;
+    color: #fce903; 
     font-weight:bold;
     padding-left:20px;
     background-color: whitesmoke !important;
@@ -402,9 +402,9 @@ ul#mysidebar {
 .nav li a {
     padding-right:10px;
 }
-
+/* potentially navigation color*/
 .nav li a:hover {
-    background-color: #8D8D8D;
+    background-color: #fce903;
 }
 
 .nav ul li a {
@@ -475,7 +475,7 @@ figcaption {
 }
 
 .preference {
-    color: red;
+    color: purple;
 }
 
 
@@ -589,8 +589,8 @@ a[data-toggle] {
 a.fa.fa-envelope-o.mailto {
     font-weight: 600;
 }
-
-h3 {color: #ED1951; font-weight:normal; font-size:130%;}
+/*potentially font color*/
+h3 {color: #49b675; font-weight:normal; font-size:130%;}
 h4 {color: #808080; font-weight:normal; font-size:120%; font-style:italic;}
 
 .alert, .callout {
@@ -806,7 +806,7 @@ a.accordion-toggle {
 }
 
 span.red {
-    color: red;
+    color: orange;
     font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
 }
 
