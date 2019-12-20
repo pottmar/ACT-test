@@ -42,7 +42,7 @@ a[data-toggle="tooltip"] {
     border-color: #ffffff;
 }
 .navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-brand {
-    color: black; /*new change*/
+    color: white; /*new change*/
 }
 
 .navbar-inverse .navbar-nav>li>a:hover, a.fa.fa-home.fa-lg.navbar-brand:hover {
