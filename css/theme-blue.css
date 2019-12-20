@@ -32,17 +32,17 @@ div.navbar-collapse .dropdown-menu > li > a:hover {
 }
 
 a[data-toggle="tooltip"] {
-    color: #649345;
+    color: #649345; /*green*/
     font-style: italic;
     cursor: default;
 }
 
 .navbar-inverse {
-    background-color: #8bbe1b; /*lemon lime*/
+    background-color: #32127a; /*dark purple*/
     border-color: #015CAE;
 }
 .navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-brand {
-    color: white;
+    color: pink;
 }
 
 .navbar-inverse .navbar-nav>li>a:hover, a.fa.fa-home.fa-lg.navbar-brand:hover {
