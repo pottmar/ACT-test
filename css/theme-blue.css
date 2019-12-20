@@ -54,7 +54,7 @@ a.navbar-brand:hover {
 }
 
 .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
-    color: #015CAE;
+    color: #ffffff;
 }
 
 .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
@@ -113,9 +113,9 @@ li.sidebarTitle {
 }
 
 .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
-    background-color: #015CAE;
+    background-color: #ffffff;
 }
 
 .navbar-inverse .navbar-toggle {
-    border-color: #015CAE;
+    border-color: #ffffff;
 }
