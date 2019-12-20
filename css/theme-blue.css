@@ -14,11 +14,11 @@ h4 {color: #808080; }
 }
 
 .nav > li.active > a {
-    background-color: #faa; /*light pink*/
+    background-color: #32127a; /*dark purple*/
 }
 
-.nav > li > a:hover { /*white*/
-    background-color: #fff;
+.nav > li > a:hover { /*light gray*/
+    background-color: #71787d;
 }
 
 div.navbar-collapse .dropdown-menu > li > a:hover {
