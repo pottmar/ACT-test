@@ -388,7 +388,7 @@ ul#mysidebar {
 }
 /* potentially navigation color */
 .nav li.thirdlevel > a {
-    color: #fce903; 
+    color: #ffce00; 
     font-weight:bold;
     padding-left:20px;
     background-color: whitesmoke !important;
@@ -404,7 +404,7 @@ ul#mysidebar {
 }
 /* potentially navigation color*/
 .nav li a:hover {
-    background-color: #fce903;
+    background-color: #ffce00;
 }
 
 .nav ul li a {
