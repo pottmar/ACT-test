@@ -42,11 +42,11 @@ a[data-toggle="tooltip"] {
     border-color: #ffffff;
 }
 .navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-brand {
-    color: white;
+    color: black; /*new change*/
 }
 
 .navbar-inverse .navbar-nav>li>a:hover, a.fa.fa-home.fa-lg.navbar-brand:hover {
-     color: #ffffff; /*white*/
+     color: #000000; /*black, new change*/
 }
 
 a.navbar-brand:hover {
