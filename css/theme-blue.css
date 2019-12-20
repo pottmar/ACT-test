@@ -59,7 +59,7 @@ a.navbar-brand:hover {
 
 .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
     background-color: #7730e4;
-    color: #fff;  /*white*/
+    color: #ffffff;  /*white*/
 }
 
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
@@ -73,7 +73,7 @@ a.navbar-brand:hover {
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
-    background-color: #010101; /*black*/
+    background-color: #ffffff; /*recent change*/
 }
 
 .btn-primary:hover,
