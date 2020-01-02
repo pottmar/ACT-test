@@ -40,23 +40,23 @@ entries:
     folderitems:
 
     - title: Project Managers
-      url: /mydoc_release_notes_60.html
+      url: /project_managers.html
       output: web, pdf
 
     - title: Data Stewards & Facilitators
-      url: /mydoc_release_notes_50.html
+      url: /data_stewards.html
       output: web, pdf
       
-    - title: Regulatory
-      url: /mydoc_release_notes_50.html
+    - title: Regulatory/Governance
+      url: /regulatory.html
       output: web, pdf
       
     - title: System Administrators
-      url: /mydoc_release_notes_50.html
+      url: /system_administrators.html
       output: web, pdf
       
     - title: Data Curators
-      url: /mydoc_release_notes_50.html
+      url: /data_curators.html
       output: web 
 
   - title: Networks
