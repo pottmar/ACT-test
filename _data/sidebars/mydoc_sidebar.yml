@@ -24,7 +24,7 @@ entries:
     folderitems:
 
     - title: ACT Informational Links
-      url: pages/mydoc/informational_links
+      url: /informational_links.html
       output: web, pdf
       
     - title: Roadmap & Deadlines
