@@ -1,6 +1,5 @@
 ---
 title: Regulatory & Governance Resources
-tags: [regulatory], [governance]
 keywords: regulatory, governance
 last_updated: January 2, 2020
 sidebar: mydoc_sidebar
