@@ -32,7 +32,7 @@ entries:
       output: web, pdf
 
     - title: Trainings & Demonstrations
-      url: /roadmaps.html
+      url: /trainings.html
       output: web, pdf
 
   - title: Resources by Role
