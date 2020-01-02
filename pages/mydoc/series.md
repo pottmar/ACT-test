@@ -5,7 +5,7 @@ keywords: series, connected articles, tutorials, hello world
 last_updated: January 2, 2020
 summary: "You can automatically link together topics belonging to the same series. This helps users know the context within a particular process."
 sidebar: mydoc_sidebar
-permalink: mydoc_series.html
+permalink: series.html
 folder: mydoc
 ---
 
