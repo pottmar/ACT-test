@@ -47,8 +47,8 @@ entries:
       url: /data_stewards.html
       output: web, pdf
       
-    - title: Regulatory/Governance
-      url: /regulatory.html
+    - title: Regulatory & Governance
+      url: /regulatory.hrml
       output: web, pdf
       
     - title: System Administrators
