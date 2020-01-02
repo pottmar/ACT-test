@@ -29,7 +29,7 @@ The ACT governance structure includes required reporting to the National Center 
 
 The ACT Executive Committee reports to the ACT PI Group and provides oversight for the project. Reporting to the ACT Executive Committee are five work groups, as outlined in the figure below:
 
-{% include image.html file="structure.png" alt="Structure" caption="This is a sample caption" %}
+{% include image.html file="structure.png" alt="Structure" caption="The reporting and governance structure of the ACT Network." %}
 
 ## ACT Site Responsibilities
 Each ACT site is expected to adhere to the following:
