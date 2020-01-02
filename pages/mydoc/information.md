@@ -3,9 +3,9 @@ title: Informational Links
 keywords: links, information, informational
 last_updated: January 2, 2020
 tags: [getting_started], [information], [links], [website]
-summary: 
+summary: "Below is a list of links related to the ACT Network, its functions, and its sites."
 sidebar: mydoc_sidebar
-permalink: informational_links.html
+permalink: information.html
 folder: mydoc
 ---
 
