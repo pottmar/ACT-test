@@ -1,11 +1,11 @@
 ---
 title: Roadmap & Deadlines
-tags: [content_types]
-keywords: series, connected articles, tutorials, hello world
+tags: [roadmap]
+keywords: roadmap, deadlines, tasks
 last_updated: January 2, 2020
-summary: "You can automatically link together topics belonging to the same series. This helps users know the context within a particular process."
+summary: "Below is an overview of past and upcoming major tasks for sites across the ACT Network. This is a living document and is subject to change."
 sidebar: mydoc_sidebar
-permalink: series.html
+permalink: roadmap.html
 folder: mydoc
 ---
 
