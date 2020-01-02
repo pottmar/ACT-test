@@ -8,7 +8,7 @@ permalink: system_administrators.html
 folder: mydoc
 ---
 
-## **Current Software Versions**
+## Current Software Versions
 **i2b2 Version:** 1.7.09C (Wave 1-4) or 1.7.11 (Wave 5)
 
 **SHRINE Version:** 2.0 as of October 30, 2019 
@@ -16,14 +16,14 @@ folder: mydoc
 **Ontology Version:** 2.0.1 as of March 27, 2019 
 
 
-## **Technology Stacks**
+## Technology Stacks
 ### SHRINE
 All files related to SHRINE, including installation and upgrade files and instructions, documentation, and release notes can be found [here](https://github.com/dbmi-pitt/ACT-Network/wiki/SHRINE).
 
 ### i2b2
 All files related to i2b2, including installation and upgrade files and instructions, documentation, and release notes can be found [here](https://github.com/dbmi-pitt/ACT-Network/wiki/i2b2).
 
-## **Ontology**
+## Ontology
 All ontology files, information, and documentation can be found [here](https://github.com/dbmi-pitt/ACT-Network/wiki/ontology).
 
 {% include links.html %}
