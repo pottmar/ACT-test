@@ -4,7 +4,7 @@ keywords: links, information, informational
 last_updated: January 2, 2020
 tags: [getting_started], [information], [links], [website]
 sidebar: mydoc_sidebar
-permalink: mydoc_about.html
+permalink: informational_links.html
 folder: mydoc
 ---
 
