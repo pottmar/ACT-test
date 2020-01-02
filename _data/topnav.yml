@@ -5,28 +5,19 @@ topnav:
   items:
     - title: ACT Website
       external_url: https://www.actnetwork.us/national
+    - title: ACT Sites
+      external_url: https://www.actnetwork.us/Global/FileLib/PDFs/ACT_Geographic_Map.pdf
     - title: Submit a Feature Request
       url: /news
-
+    - title: Helpful Resources
+      url: /news
+      
 #Topnav dropdowns
-topnav_dropdowns:
-- title: Topnav dropdowns
-  folders:
-    - title: Nothing
-      folderitems:
-        - title: Jekyll Talk
-          external_url: https://talk.jekyllrb.com
-        - title: Jekyll documentation
-          external_url: http://jekyllrb.com/docs/home/
-        - title: Jekyll on Stack Overflow
-          external_url: http://stackoverflow.com/questions/tagged/jekyll
-        - title: Jekyll on my blog
-          external_url: http://idratherbewriting.com/category-jekyll/
-    - title: Nothing
-      folderitems:
-        - title: Jekyll Documentation Theme
-          url: /mydoc_introduction.html
-        - title: Product 1
-          url: /p1_landing_page.html
-        - title: Product 2
-          url: /p2_landing_page.html
+## topnav_dropdowns:
+## - title: Topnav dropdowns
+  ## folders:
+   ## - title: Nothing
+    ##  folderitems:
+    ##    - title: Jekyll Talk
+    ##      external_url: https://talk.jekyllrb.com
+
