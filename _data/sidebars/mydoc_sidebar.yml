@@ -24,7 +24,7 @@ entries:
     output: web, pdf
 
   - title: ACT Informational Links
-    url: /index.html
+    url: pages/mydoc/informational_links
     output: web, pdf
 
   - title: Resources by Role
