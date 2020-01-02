@@ -28,7 +28,7 @@ entries:
       output: web, pdf
       
     - title: Roadmap & Deadlines
-      url: /mydoc_series.html
+      url: /series.html
       output: web, pdf
 
     - title: Trainings & Demonstrations
