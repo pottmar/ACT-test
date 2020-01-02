@@ -28,11 +28,11 @@ entries:
       output: web, pdf
       
     - title: Roadmap & Deadlines
-      url: /series.html
+      url: /roadmap.html
       output: web, pdf
 
     - title: Trainings & Demonstrations
-      url: /mydoc_series.html
+      url: /roadmaps.html
       output: web, pdf
 
   - title: Resources by Role
@@ -116,11 +116,11 @@ entries:
       output: web, pdf
 
     - title: Governance
-      url: /mydoc_series.html
+      url: /mydoc_tags.html
       output: web, pdf
       
     - title: Dissemination
-      url: /mydoc_series.html
+      url: /mydoc_tags.html
       output: web, pdf
 
   - title: Contacts & Mailing Lists
