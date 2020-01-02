@@ -1,13 +1,14 @@
 ---
 title: Data Steward Resources
 keywords: data steward, metrics
+tags: [data steward], [metrics]
 last_updated: January 2, 2020
 sidebar: mydoc_sidebar
 permalink: data_stewards.html
 folder: mydoc
 ---
 
-## **ACT Usage Metrics**
+## ACT Usage Metrics
 
 The monthly ACT Metrics collection survey is on [RedCap](https://www.ctsiredcap.pitt.edu/redcap/surveys/?s=JPTYEE8AEP).
 
