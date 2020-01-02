@@ -19,13 +19,21 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Home
-    url: /index.html
+  - title: Overview
     output: web, pdf
+    folderitems:
 
-  - title: ACT Informational Links
-    url: pages/mydoc/informational_links
-    output: web, pdf
+    - title: ACT Informational Links
+      url: pages/mydoc/informational_links
+      output: web, pdf
+      
+    - title: Roadmap & Deadlines
+      url: /mydoc_series.html
+      output: web, pdf
+
+    - title: Trainings & Demonstrations
+      url: /mydoc_series.html
+      output: web, pdf
 
   - title: Resources by Role
     output: web, pdf
@@ -47,23 +55,9 @@ entries:
       url: /mydoc_release_notes_50.html
       output: web, pdf
       
-      subfolders:
-      - title: Data Curators
-        url: /mydoc_release_notes_50.html
-        output: web
-        subfolderitems:
-        
-        - title: Ontology
-          url: /mydoc_release_notes_50.html
-          output: web
-        
-        - title: ETL
-          url: /mydoc_about_ruby_gems_etc.html
-          output: web, pdf
-          
-        - title: Data Quality/Characterization
-          url: /mydoc_about_ruby_gems_etc.html
-          output: web, pdf  
+    - title: Data Curators
+      url: /mydoc_release_notes_50.html
+      output: web 
 
   - title: Networks
     output: web, pdf
@@ -87,8 +81,8 @@ entries:
 
   - title: Technology Stacks
     output: web, pdf
-
     folderitems:
+    
     - title: SHRINE
       url: /mydoc_pages.html
       output: web, pdf
@@ -129,22 +123,10 @@ entries:
       url: /mydoc_series.html
       output: web, pdf
 
-  - title: Roadmap & Deadlines
-    url: /mydoc_series.html
-    output: web, pdf
-
-  - title: Training & Demonstration Resources
-    url: /mydoc_series.html
-    output: web, pdf
-
-#    - title: Git collaboration
-#      url: /mydoc_git_collaboration
-#      output: web, pdf
-
   - title: Contacts & Mailing Lists
     output: web, pdf
-
     folderitems:
+    
     - title: Key Contacts
       url: /mydoc_kb_layout.html
       output: web, pdf
@@ -162,11 +144,15 @@ entries:
           url: /tag_navigation.html
           output: web
 
-  - title: Knowledge Sharing
-    url: /mydoc_troubleshooting.html
+  - title: Other Resources
     output: web, pdf
+    folderitems: 
 
-  - title: Help
-    url: /mydoc_tag_archives_overview.html
-    output: web, pdf
+    - title: Knowledge Sharing
+      url: /mydoc_tag_archives_overview.html
+      output: web, pdf
+
+    - title: Help
+      url: /mydoc_tag_archives_overview.html
+      output: web, pdf
    
