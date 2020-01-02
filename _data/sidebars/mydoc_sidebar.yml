@@ -84,19 +84,15 @@ entries:
     folderitems:
     
     - title: SHRINE
-      url: /mydoc_pages.html
+      url: /shrine.html
       output: web, pdf
 
     - title: i2b2
-      url: /mydoc_posts.html
+      url: /i2b2.html
       output: web, pdf
 
     - title: Ontology
-      url: /mydoc_lists.html
-      output: web, pdf
-
-    - title: Tools
-      url: /mydoc_conditional_logic.html
+      url: /ontology.html
       output: web, pdf
 
   - title: Work Groups
