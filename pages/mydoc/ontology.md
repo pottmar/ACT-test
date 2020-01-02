@@ -62,6 +62,7 @@ Archived ontology documentation can be found in [this repository](https://pitt.b
 ACT ontology on [i2b2 Web Client ](http://dbmi-ncats-test01.dbmi.pitt.edu/webclient/)
 
 **Username:** demo 
+
 **Password:** demouser 
 
 ## Ontology Training Material
