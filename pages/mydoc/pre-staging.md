@@ -3,7 +3,7 @@ title: Pre-Staging Tier Resources
 tags: [pre-stage], [onboarding]
 keywords: Wave 5, pre-staging, pre-stage, onboarding
 last_updated: January 2, 2020
-summary: "You can reuse chunks of content by storing these files in the includes folder. You then choose to include the file where you need it. This works similar to conref in DITA, except that you can include the file in any content type."
+summary: "Below is the most up-to-date information regarding current software, network, and technology requirements for pre-staging/onboarding sites."
 sidebar: mydoc_sidebar
 permalink: pre-staging.html
 folder: mydoc
