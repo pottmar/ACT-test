@@ -47,12 +47,9 @@ entries:
       url: /mydoc_release_notes_50.html
       output: web, pdf
       
-    - title: Data Curators
-      url: /mydoc_release_notes_50.html
-      output: web, pdf
-      
       subfolders:
-      - title: Documentation
+      - title: Data Curators
+        url: /mydoc_release_notes_50.html
         output: web
         subfolderitems:
         
