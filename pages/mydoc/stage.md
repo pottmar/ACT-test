@@ -4,7 +4,7 @@ tags:
   - stage
 keywords: stage
 last_updated: January 2, 2020
-summary: "You can add a button to your pages that allows people to add comments."
+summary: "Below is the most up-to-date information regarding current software, network, and technology requirements for sites with a Staging node."
 sidebar: mydoc_sidebar
 permalink: stage.html
 folder: mydoc
