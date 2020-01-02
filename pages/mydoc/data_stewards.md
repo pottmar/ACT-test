@@ -32,4 +32,3 @@ The audio from the data steward meeting held on November 14th, 2019 can be found
 ## Communications
 We will use the distribution list ACTfacilitatorsDS for all necessary communications. Information about the mailing list and instructions on how to join can be found [here](https://github.com/dbmi-pitt/ACT-Network/wiki/Data-Steward-Mailing-List).
 
-(For Windows, replace "Cmd" with "Ctrl".)
