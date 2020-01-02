@@ -52,21 +52,17 @@ entries:
       output: web, pdf
       
       subfolders:
-      - title: Tag archive pages
+      - title: Ontology
+        url: /mydoc_release_notes_50.html
         output: web
-        subfolderitems:
         
-        - title: Ontology
-          url: /mydoc_about_ruby_gems_etc.html
-          output: web, pdf
+      - title: ETL
+        url: /mydoc_about_ruby_gems_etc.html
+        output: web, pdf
           
-        - title: ETL
-          url: /mydoc_about_ruby_gems_etc.html
-          output: web, pdf  
-          
-        - title: Data Quality/Characterization
-          url: /mydoc_about_ruby_gems_etc.html
-          output: web, pdf
+      - title: Data Quality/Characterization
+        url: /mydoc_about_ruby_gems_etc.html
+        output: web, pdf  
 
   - title: Networks
     output: web, pdf
