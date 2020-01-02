@@ -5,8 +5,6 @@ topnav:
   items:
     - title: ACT Website
       external_url: https://www.actnetwork.us/national
-    - title: ACT Sites
-      external_url: https://www.actnetwork.us/Global/FileLib/PDFs/ACT_Geographic_Map.pdf
     - title: Submit a Feature Request
       url: /news
     - title: Helpful Resources
