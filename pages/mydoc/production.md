@@ -1,6 +1,5 @@
 ---
 title:  Production Tier Resources
-tags: [production]
 keywords: production
 last_updated: January 2, 2020
 summary: "Below is the most up-to-date information regarding current software, network, and technology requirements for sites with a Production node."
