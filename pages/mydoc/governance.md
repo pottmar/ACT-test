@@ -16,3 +16,5 @@ A link to the folder containing all the governance documentation can be found [h
 
 ## Meeting Minutes & Agendas
 All meeting minutes and agendas from the governance workgroup can be found [here](https://pitt.box.com/s/jonn0t8vzrgwq7kqhd7wsp4lpzeuz7j9).
+
+{% include links.html %}
