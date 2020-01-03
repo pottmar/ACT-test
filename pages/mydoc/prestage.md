@@ -36,7 +36,7 @@ These pages contain all available resources for [i2b2](https://pottmar.github.io
 All ontology resources (including ontology files, ETL, documentation, and release notes) can be found [here](https://pottmar.github.io/ACT-test/ontology.html).
 
 ## ACT Project Management Information
-Project management information, including timeline, governance and regulatory guidance, and other information can be found here.
+Project management information, including timeline, governance and regulatory guidance, and other information can be found [here](https://pottmar.github.io/ACT-test/project_managers.html).
 
 ## Resources
 ### JIRA
