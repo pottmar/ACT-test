@@ -1,7 +1,7 @@
 ---
 title: Helpful resources
 sidebar: mydoc_sidebar
-keywords: help, JIRA
+keywords: help, JIRA, FAQ
 permalink: help.html
 folder: mydoc
 ---
