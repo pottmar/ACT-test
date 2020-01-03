@@ -1,7 +1,5 @@
 ---
 title: Data Curator Resources
-tags:
-  - data curator
 keywords: ontology, ETL, quality
 last_updated: January 2, 2020
 sidebar: mydoc_sidebar
