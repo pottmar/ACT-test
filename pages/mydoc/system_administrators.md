@@ -1,6 +1,5 @@
 ---
 title: System Administrator Resources
-tags: [system administrator]
 keywords: system administrator, technology, i2b2, shrine
 last_updated: January 2, 2020
 sidebar: mydoc_sidebar
