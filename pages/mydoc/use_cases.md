@@ -108,6 +108,7 @@ AND NOT [interferon order]
 * HIV 
 * History of lymphoma 
 * History of bone marrow transplant 
+
   
 ## Use Case 4: Biliary atresia
 Rare pediatric disease use case (contributed by Ronald J. Sokol, Colorado Clinical and Translational Sciences Institute) 
