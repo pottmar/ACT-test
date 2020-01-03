@@ -145,10 +145,10 @@ entries:
     folderitems: 
 
     - title: Knowledge Sharing
-      url: /mydoc_tag_archives_overview.html
+      url: /knowledge_archive.html
       output: web, pdf
 
     - title: Help
-      url: /mydoc_tag_archives_overview.html
+      url: /help.html
       output: web, pdf
    
