@@ -1,7 +1,6 @@
 ---
 title: Data Steward Resources
 keywords: data steward, metrics
-tags: [data steward], [metrics]
 last_updated: January 2, 2020
 sidebar: mydoc_sidebar
 permalink: data_stewards.html
