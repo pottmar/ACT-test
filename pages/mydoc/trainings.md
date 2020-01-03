@@ -1,6 +1,5 @@
 ---
 title: Training & Demonstration Resources
-tags: [training, webinar]
 keywords: training, webinar, demonstration
 summary: 
 sidebar: mydoc_sidebar
