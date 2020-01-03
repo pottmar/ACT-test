@@ -15,16 +15,20 @@ Clinical trial to evaluate safety and efficacy of a novel biologic in early rheu
 * Rheumatoid arthritis (ICD-9 714.0) 
 * Duration of disease: <2 years 
 * Active disease: CRP >1.2x ULN or ESR >30 mm/hr (note: clinical findings generally required for enrollment, but would not be in structured data) 
+
 **Demographics**
 * Age: Between 18 and 75 years 
 * Sex: No criteria 
+
 **Medications**
 * Methotrexate >3 months at >7.5 mg/week 
 * Currently on Prednisone <10 mg/day or not on prednisone 
-* No current biologic (etanercept, golimumab, adalimiumab, infliximab, certulizumab, anakinra, rituximab) or JAK inhibitor (tofacitinib) 
+* No current biologic (etanercept, golimumab, adalimiumab, infliximab, certulizumab, anakinra, rituximab) or JAK inhibitor (tofacitinib)
+
 **Laboratory**
 * Hgb >10 g/dl, ALT and AST <ULN 
 * and T bili <ULN, Creatinine <ULN 
+
 ### Exclusion Criteria
 * Active tuberculosis 
 * Hepatitis B 
