@@ -124,7 +124,7 @@ entries:
     folderitems:
     
     - title: Key Contacts
-      url: /mydoc_kb_layout.html
+      url: /contacts.html
       output: web, pdf
       
       subfolders:
@@ -133,11 +133,11 @@ entries:
         subfolderitems:
 
         - title: Technology Listserv
-          url: /tag_formatting.html
+          url: /tech_list.html
           output: web
 
         - title: Data Steward Listserv
-          url: /tag_navigation.html
+          url: /ds_list.html
           output: web
 
   - title: Helpful Resources
