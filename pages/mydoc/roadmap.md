@@ -1,6 +1,5 @@
 ---
 title: Roadmap & Deadlines
-tags: [roadmap]
 keywords: roadmap, deadlines, tasks
 last_updated: January 2, 2020
 summary: "Below is an overview of past and upcoming major tasks for sites across the ACT Network. This is a living document and is subject to change."
