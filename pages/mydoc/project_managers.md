@@ -1,6 +1,5 @@
 ---
 title: Project Manager Resources
-tags: [project_manager]
 keywords: project manager, pre-production, checklist, onboarding
 last_updated: January 2, 2020
 sidebar: mydoc_sidebar
