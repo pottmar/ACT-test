@@ -1,7 +1,7 @@
 ---
 title: Regulatory Workgroup Resources
 last_updated: January 3, 2020
-keywords: API, content API, UI text, inline help, context-sensitive help, popovers, tooltips
+keywords: regulatory, plug-in, i2b2
 summary: "This page contains all the documentation and proposed plug-in workflows as decided upon by the regulatory working group."
 sidebar: mydoc_sidebar
 permalink: regulatory_wg.html
