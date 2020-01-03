@@ -50,7 +50,7 @@ a[data-toggle="tooltip"] {
 }
 
 a.navbar-brand:hover {
-  color: #000000; /*white to black*/
+  color: #ffffff; /*newest change to white*/
 }
 
 .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
