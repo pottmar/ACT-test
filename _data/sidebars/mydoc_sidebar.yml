@@ -100,23 +100,23 @@ entries:
 
     folderitems:
     - title: Data Harmonization
-      url: /mydoc_sidebar_navigation.html
+      url: /data_harmonization.html
       output: web, pdf
 
     - title: Regulatory
-      url: /mydoc_yaml_tutorial.html
+      url: /regulatory_wg.html
       output: web, pdf
 
     - title: Technology
-      url: /mydoc_tags.html
+      url: /technology.html
       output: web, pdf
 
     - title: Governance
-      url: /mydoc_tags.html
+      url: /governance.html
       output: web, pdf
       
     - title: Dissemination
-      url: /mydoc_tags.html
+      url: /dissemination.html
       output: web, pdf
 
   - title: Contacts & Mailing Lists
