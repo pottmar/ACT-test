@@ -9,10 +9,10 @@ folder: mydoc
 
 # Data Curator Resources
 ## Ontology
-All information related to the ontology, including installation files and documentation, ontology scripts, and release notes can be found [here](https://pitt.box.com/s/y0j72hw1hffqjr1z67g39nlq1doj6gxj).
+All information related to the ontology, including installation files and documentation, ontology scripts, and release notes can be found [here](/ACT-test/ontology).
 
 ## ETL
-ETL scripts and resources can be found [here](https://github.com/dbmi-pitt/ACT-Network/wiki/ETL).
+ETL scripts and resources can be found [here](/ACT-test/etl).
 
 ## Data Quality / Data Characterization
 ACT Data Quality Assessments and papers can be found [here](https://pitt.box.com/s/tnm6xvbymgbp1mnf4tg9930ehnegbtew).
