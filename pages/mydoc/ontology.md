@@ -1,6 +1,6 @@
 ---
 title: Ontology Resources
-summary: "The ACT Network is currently using ACT Ontology 2.0.1, which rolled out through all active and staging ACT sites to better meet the needs of clinical investigators and CTSA hubs. This new version provides a substantial increase in the available data elements, including CPT, HCPCS, ICD10 procedures, a full set of LOINC codes and additional medications."
+summary: "The ACT Network is currently using ACT Ontology 2.0.1, which rolled out through all active and staging ACT sites to better meet the needs of clinical investigators and CTSA hubs."
 keywords: ontology, ongologies
 sidebar: mydoc_sidebar
 permalink: ontology.html
@@ -8,7 +8,7 @@ folder: mydoc
 ---
 
 ## Current Ontology Version
-The ACT Network is currently using ACT Ontology 2.0.1, which rolled out through all active and staging ACT sites to better meet the needs of clinical investigators and CTSA hubs. This new version provides a substantial increase in the available data elements, including CPT, HCPCS, ICD10 procedures, a full set of LOINC codes and additional medications. 
+The ACT Network is currently using ACT Ontology 2.0.1, which rolled out through all active and staging ACT sites in 2019. This new version provides a substantial increase in the available data elements, including CPT, HCPCS, ICD10 procedures, a full set of LOINC codes and additional medications. 
 
 A summary overview of the changes made can be found [here](https://www.actnetwork.us/Global/FileLib/PDFs/ACT_ONTOLOGY_V2.0.1_final.pdf).
 
