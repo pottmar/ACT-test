@@ -24,20 +24,20 @@ folder: mydoc
 Port 6443 
 
 ## Technology Stacks 
-These pages contain all available resources for [i2b2](https://github.com/dbmi-pitt/ACT-Network/wiki/i2b2) and [SHRINE](https://github.com/dbmi-pitt/ACT-Network/wiki/SHRINE). This includes installation files, upgrade files, documentation, and release notes.
+These pages contain all available resources for [i2b2](/ACT-test/i2b2.html) and [SHRINE](/ACT-test/shrine.html). This includes installation files, upgrade files, documentation, and release notes.
 
 ## Ontology
-All ontology resources (including ontology files, ETL, documentation, and release notes) for ontology V2.0.1 can be found [here](https://github.com/dbmi-pitt/ACT-Network/wiki/Ontology).
+All ontology resources (including ontology files, ETL, documentation, and release notes) for ontology V2.0.1 can be found [here](/ACT-test/ontology.html).
 
 ## Site Role Resources
 Below are the resources for the various local ACT roles:
-* [Project Managers](https://github.com/dbmi-pitt/ACT-Network/wiki/Project-Managers)
-* [Data Stewards and Facilitators](https://github.com/dbmi-pitt/ACT-Network/wiki/Data-Stewards-and-Facilitators)
-* [Regulatory/Governance](https://github.com/dbmi-pitt/ACT-Network/wiki/Regulatory)
-* [System Administrators](https://github.com/dbmi-pitt/ACT-Network/wiki/System-Administrators)
-* [Data Curators](https://github.com/dbmi-pitt/ACT-Network/wiki/Data-Curators)
+* [Project Managers](/ACT-test/project_managers.html)
+* [Data Stewards and Facilitators](/ACT-test/data_stewards.html)
+* [Regulatory/Governance](/ACT-test/regulatory.html)
+* [System Administrators](/ACT-test/system_administrators.html)
+* [Data Curators](/ACT-test/data_curators.html)
 
 ## Help
-There are various avenues available for sites seeking or providing help. All of these helpful resources can be found [here](https://github.com/dbmi-pitt/ACT-Network/wiki/Help).
+There are various avenues available for sites seeking or providing help. All of these helpful resources can be found [here](/ACT-test/help.html).
 
  {% include links.html %}
