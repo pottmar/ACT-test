@@ -2,6 +2,7 @@
 title: ETL
 keywords: etl
 permalink: etl.html
+sidebar: mydoc_sidebar
 folder: mydoc
 ---
 
