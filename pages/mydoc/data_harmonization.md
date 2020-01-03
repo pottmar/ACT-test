@@ -12,7 +12,7 @@ folder: mydoc
 Click [here](https://docs.google.com/spreadsheets/d/1ZTx8K2MTO6N3P5rJ2sPnpojMg4rSZomauo2iZWADY5A/edit) to access the workgroup's Google Doc, which includes meeting materials, data characterization goals, and ontology roadmaps. 
 
 ## Ontology Documents
-All documents and information related to the ACT ontology can be found [here](/ACT-test/ontology).
+All documents and information related to the ACT ontology can be found [here](/ACT-test/ontology.html).
 
 ## ACT Common Data Model
 The ACT Common Data Model can be found [here](https://pitt.box.com/s/nuoueqadkcuhq6oqxbg3rsmg0kcaqcyo).
