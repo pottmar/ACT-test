@@ -1,6 +1,5 @@
 ---
 title: Test Tier Resources
-tags: [test]
 keywords: test
 last_updated: January 2, 2020
 summary: "Below is the most up-to-date information regarding current software, network, and technology requirements for sites with a Test node. It also includes additional documentation for the Test nodes, including the participant identification use case."
