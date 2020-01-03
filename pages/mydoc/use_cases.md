@@ -114,7 +114,7 @@ Rare pediatric disease use case (contributed by Ronald J. Sokol, Colorado Clinic
 
 Proposed Clinical Trial: Clinical trial of new anti-fibrosis medication for children with biliary atresia who have undergone hepatic portoenterostomy and have evidence of portal hypertension but have not yet had liver transplant. 
 
-### Inclusion criteria:
+### Inclusion criteria
 **Diagnosis**
 * Diagnosis of biliary atresia (ICD-9-CM 751.61) 
 * Status post Kasai hepatic portoenterostomy (ICD-9-CM 51.37 or CPT code 47701, 47765, or 47785) 
@@ -125,7 +125,7 @@ Proposed Clinical Trial: Clinical trial of new anti-fibrosis medication for chil
 * Gender: No critera 
 * Race/Ethnicity: Any race or ethnic group
 
-**Exclusion criteria**
+### Exclusion criteria
 * Having undergone a liver transplantation (CPT – 47135, 47136) 
 * Serum creatinine > 1.5 mg/dl 
 * Asthma (ICD-9-CM 493.0, 493.1, 493.2, 493.8, 493.9) 
