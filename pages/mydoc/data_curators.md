@@ -9,7 +9,7 @@ folder: mydoc
 
 # Data Curator Resources
 ## Ontology
-All information related to the ontology, including installation files and documentation, ontology scripts, and release notes can be found [here](https://pitt.box.com/s/qoj5afssw4oz3v27ipmfidhitmgya9nt).
+All information related to the ontology, including installation files and documentation, ontology scripts, and release notes can be found [here](https://pitt.box.com/s/y0j72hw1hffqjr1z67g39nlq1doj6gxj).
 
 ## ETL
 ETL scripts and resources can be found [here](https://github.com/dbmi-pitt/ACT-Network/wiki/ETL).
