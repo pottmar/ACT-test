@@ -1,11 +1,10 @@
 ---
 title: Pre-Staging Tier Resources
-tags: [pre-stage], [onboarding]
 keywords: Wave 5, pre-staging, pre-stage, onboarding
 last_updated: January 2, 2020
 summary: "Below is the most up-to-date information regarding current software, network, and technology requirements for pre-staging/onboarding sites."
 sidebar: mydoc_sidebar
-permalink: prestaging.html
+permalink: prestage.html
 folder: mydoc
 ---
 
