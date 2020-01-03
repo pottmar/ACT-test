@@ -17,12 +17,12 @@ folder: mydoc
 
 ## Technology Stacks
 ### SHRINE
-All files related to SHRINE, including installation and upgrade files and instructions, documentation, and release notes can be found [here](https://github.com/dbmi-pitt/ACT-Network/wiki/SHRINE).
+All files related to SHRINE, including installation and upgrade files and instructions, documentation, and release notes can be found [here](https://pottmar.github.io/ACT-test/shrine.html).
 
 ### i2b2
-All files related to i2b2, including installation and upgrade files and instructions, documentation, and release notes can be found [here](https://github.com/dbmi-pitt/ACT-Network/wiki/i2b2).
+All files related to i2b2, including installation and upgrade files and instructions, documentation, and release notes can be found [here](https://pottmar.github.io/ACT-test/i2b2.html).
 
 ## Ontology
-All ontology files, information, and documentation can be found [here](https://github.com/dbmi-pitt/ACT-Network/wiki/ontology).
+All ontology files, information, and documentation can be found [here](https://pottmar.github.io/ACT-test/ontology.html).
 
 {% include links.html %}
