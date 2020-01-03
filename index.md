@@ -7,6 +7,6 @@ summary: Welcome to the ACT Network wiki! This site contains all the information
 ---
 
 
-{% include image.html file="jekyll.png" url="http://jekyllrb.com" caption="Test" %}
+{% include image.html file="ACT_Logo.PNG" url="https://www.actnetwork.us/national" caption=" " %}
 
 {% include links.html %}
