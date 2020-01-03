@@ -18,7 +18,7 @@ A monthly newsletter is sent to all ACT sites. An archive of these newsletters w
 
 * [**Local Site Contacts**](https://www.actnetwork.us/national/act-local-landing-pages-46EU-1434P4.html)
 
-* **ACT Site Nomenclature**: coming soon
+* [**ACT Site Nomenclature**](https://docs.google.com/spreadsheets/d/14ZUetEf8ZaYfKycc9H1yFlt_WpdJtuC6s_QDMssSPLI/edit#gid=0)
 
 * [**Site Pre-Production Checklist**](https://docs.google.com/spreadsheets/d/1BR8w7BscAuAqr935t7vjgEGoU2VVLYE3A3gSgtgciLc/edit#gid=517612611)
 
