@@ -2,7 +2,6 @@
 title: Informational Links
 permalink: informational_links.html
 sidebar: mydoc_sidebar
-tags: [information], [links], [website]
 keywords: information, links, website
 last_updated: January 2, 2020
 summary: "You can use an accordion-layout that takes advantage of Bootstrap styling. This is useful for an FAQ page."
