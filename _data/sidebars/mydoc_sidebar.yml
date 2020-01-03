@@ -75,7 +75,7 @@ entries:
       url: /test.html
       output: web, pdf
 
-    - title: Pre-Staging
+    - title: Pre-Stage
       url: /prestaging.html
       output: web, pdf
 
