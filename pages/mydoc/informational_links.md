@@ -4,7 +4,7 @@ permalink: informational_links.html
 sidebar: mydoc_sidebar
 keywords: information, links, website
 last_updated: January 2, 2020
-summary: "You can use an accordion-layout that takes advantage of Bootstrap styling. This is useful for an FAQ page."
+summary: "Below are links to external sites that are relevant to the ACT Network. Please contact Paige Ottmar if you would like to suggest additions to this page."
 toc: false
 folder: mydoc
 ---
