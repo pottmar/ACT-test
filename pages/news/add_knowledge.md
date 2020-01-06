@@ -21,11 +21,10 @@ The front matter you can use with posts is as follows:
 
 ```
 ---
-title: My sample post
-tags: content_types
-keywords: pages, authoring, exclusion, frontmatter
-sidebar: mydoc_sidebar
-permalink: mydoc_pages.html
-summary: "This is some summary frontmatter for my sample post."
+title: title of your post
+keywords: any relevant keywords for searching purposes (separated by commas)
+sidebar: mydoc_sidebar (this must be kept as-is)
+permalink: yyyy-mm-dddd-permalink.html
+summary: A brief (1-2 sentence) summary of your post in quotation marks.
 ---
 ```
