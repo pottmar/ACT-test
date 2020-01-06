@@ -20,6 +20,6 @@ Below are all the ACT informational webinars and videos, including a link to the
   * [**ACT Information Session (October 2019)**](https://vimeo.com/373214480)
 
 ## Data Steward Training
-The data steward training video and accompanying slides can be found [here](https://github.com/dbmi-pitt/ACT-Network/wiki/Data-Stewards-and-Facilitators#data-steward-training).
+The data steward training video and accompanying slides can be found [here](/ACT-test/data_stewards.html#data-steward-training).
 
 {% include links.html %}
