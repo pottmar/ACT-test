@@ -43,7 +43,7 @@ A summary overview of the changes made can be found [here](https://www.actnetwor
 **ACT Ontology Modifier Removal:** The Oracle script to remove modifiers can be found [here](https://pitt.box.com/s/zqnavsqx9j01dl2xtue9zsv4es43bh4a).
 
 ## Ontology Installation 
-All of the ontology installation files can be found in [this repository](https://pitt.box.com/s/qoj5afssw4oz3v27ipmfidhitmgya9nt).
+All of the ontology installation files can be found in [this repository](https://pitt.box.com/s/qoj5afssw4oz3v27ipmfidhitmgya9nt). The ontology archive and its associated files can be accessed [here](https://pitt.box.com/s/qoj5afssw4oz3v27ipmfidhitmgya9nt).
 
 Installation instructions for the current ontology can be found [here](https://pitt.box.com/s/jf2mupczvclzzxtmfvdd6pn1bytg1z1v).
 
