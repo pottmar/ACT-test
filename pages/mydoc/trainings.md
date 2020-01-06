@@ -13,7 +13,11 @@ folder: mydoc
 **Password:** demouser
 
 ## ACT Informational Webinars
-Click [here](https://github.com/dbmi-pitt/ACT-Network/wiki/ACT-Informational-Webinars) to navigate to all the ACT informational webinars and videos, including the ACT Vimeo page.
+Below are all the ACT informational webinars and videos, including a link to the ACT Vimeo page.
+  * [**Informational Webinar Session 1 (June 2018)**](https://www.youtube.com/watch?v=NMJG9_Vi0PE&feature=youtu.be)
+  * [**Informational Webinar Session 2 (July 2018)**](https://www.youtube.com/watch?v=OtX7ECRW_VY&feature=youtu.be)
+  * [**End of Year Webinar (December 2018)**](https://www.youtube.com/watch?v=UKMIQyYRl_w&feature=youtu.be)
+  * [**ACT Information Session (October 2019)**](https://vimeo.com/373214480)
 
 ## Data Steward Training
 The data steward training video and accompanying slides can be found [here](https://github.com/dbmi-pitt/ACT-Network/wiki/Data-Stewards-and-Facilitators#data-steward-training).
