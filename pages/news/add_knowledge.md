@@ -11,11 +11,11 @@ Thank you for your interest in adding to the ACT Network Knowledge Archive! This
 
 There are three ways through which one can add knowledge to the knowledge archive:
 
-1) Send an email to Paige Ottmar at <pottmar@chartis.com> with the content you wish to be shared. She will create the archive post for you and attribute you as the author.
+**1)** Send an email to Paige Ottmar at <pottmar@chartis.com> with the content you wish to be shared. She will create the archive post for you and attribute you as the author.
 
-2) Submit a ticket on the [ACT Network Project page](https://actnetwork.atlassian.net/projects/ACT/board) with the title and description of your post. Select Paige Ottmar as the assignee of the ticket. She will create the archive post for you and attribute you as the author.
+**2)** Submit a ticket on the [ACT Network Project page](https://actnetwork.atlassian.net/projects/ACT/board) with the title and description of your post. Select Paige Ottmar as the assignee of the ticket. She will create the archive post for you and attribute you as the author.
 
-3) Click [here](https://github.com/pottmar/ACT-test/tree/gh-pages/_posts) to access the GitHub of the ACT Network and create your own post. You create a post by adding a file in this folder that is named yyyy-mm-dddd-permalink.md. Here "permalink" would be a brief description or title for your post.
+**3)** Click [here](https://github.com/pottmar/ACT-test/tree/gh-pages/_posts) to access the GitHub of the ACT Network and create your own post. You create a post by adding a file in this folder that is named yyyy-mm-dddd-permalink.md. Here "permalink" would be a brief description or title for your post.
 
 The front matter you can use with posts is as follows:
 
