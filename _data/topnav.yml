@@ -16,6 +16,6 @@ topnav:
   ## folders:
    ## - title: Nothing
     ##  folderitems:
-    ##    - title: Jekyll Talk
-    ##      external_url: https://talk.jekyllrb.com
+    ##    - title: Example Website Title
+    ##      external_url: https://url.com
 
