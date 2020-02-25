@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 
 <div class="post-header">
@@ -62,6 +63,10 @@ layout: default
 </div>
 
 {{site.data.alerts.hr_shaded}}
+
+{% if site.disqus.shortname %}
+  {% include disqus_comments.html %}
+{% endif %}
 
 {% include footer.html %}
 
